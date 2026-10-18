@@ -1,0 +1,14 @@
+{
+  "name": "restapis",
+  "version": "1.0.0",
+  "description": "restapis, node express, js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "Priyanshu Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
